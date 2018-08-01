@@ -1,4 +1,4 @@
-require('../lib').setup();
+require('../lib/promise.rsvp').setup();
 
 var assert = require('assert');
 
